@@ -12,13 +12,14 @@ Depois digite npm -v
 3° Tenha instalado em sua maquina o <a href="https://code.visualstudio.com/">Visual Studio Code</a>.<br>
 
 4° Baixe os arquivos do NodeJS com EJS e abra o ele no Visual Studio Code.<br>
+<img width="300px" src = "https://user-images.githubusercontent.com/85903509/151394393-b2fc823b-e7d4-4279-988f-bcc3e7bdffdb.png"> - 
 
 5° Já dentro do arquivo, agora abra o terminal do Visual Studio Code.<br>
 - Você pode abrir ele no menu superior do Visual Studio Code ou com os seguintes comandos: Ctrl + Shift + ' 
 
 6° Digite o seguinte comando: **npm install**
 
-7° Agora no terminal digite o seguinte comando: **node server**
+7° Ainda no terminal digite o seguinte comando: **node server**
 
 8° Agora abra seu navegador e entre no **http://localhost:8080/**
 
