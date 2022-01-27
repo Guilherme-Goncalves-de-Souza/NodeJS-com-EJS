@@ -11,24 +11,34 @@ Depois digite npm -v
 
 3° Tenha instalado em sua maquina o <a href="https://code.visualstudio.com/">Visual Studio Code</a>.<br>
 
-4° Baixe os arquivos do NodeJS com EJS e abra o ele no Visual Studio Code.<br>
-<img width="300px" src = "https://user-images.githubusercontent.com/85903509/151394393-b2fc823b-e7d4-4279-988f-bcc3e7bdffdb.png"> - 
+4° Baixe os arquivos do NodeJS com EJS<br>
+<img width="300px" src = "https://user-images.githubusercontent.com/85903509/151394393-b2fc823b-e7d4-4279-988f-bcc3e7bdffdb.png">
 
-5° Já dentro do arquivo, agora abra o terminal do Visual Studio Code.<br>
+5° Entre nessa pasta: <br>
+![image](https://user-images.githubusercontent.com/85903509/151396445-72bf6f21-5686-443a-abd1-40aebe7054f3.png)
+
+6° Dentro dela arraste os arquivos para a pasta principal que está destacada na imagem abaixo:
+![image](https://user-images.githubusercontent.com/85903509/151395616-18e14b5e-bcfa-4853-86f1-c3e9ffda49eb.png)
+
+7° Agora pode excluir a pasta que está destacada na imagem abaixo:
+![image](https://user-images.githubusercontent.com/85903509/151396006-b02d25f5-ec02-4f8b-817a-6f4ae4be4628.png)
+
+8°  Abra os arquivos no Visual Studio Code. Já dentro do arquivo, agora abra o terminal do Visual Studio Code.<br>
 - Você pode abrir ele no menu superior do Visual Studio Code ou com os seguintes comandos: Ctrl + Shift + ' 
 
-6° Digite o seguinte comando: **npm install**
+9° Digite o seguinte comando: **npm install**
 
-7° Ainda no terminal digite o seguinte comando: **node server**
+10° Ainda no terminal digite o seguinte comando: **node server**
 
-8° Agora abra seu navegador e entre no **http://localhost:8080/**
+11° Agora abra seu navegador e entre no **http://localhost:8080/**
 
 - Se você quiser encerrar o processo poderá apertar **control+C**
 
 - Com isso você estará dentro do projeto :)
 
-## Tecnologias usadas:
+<br>
 
+## Tecnologias usadas:
 <div>
   <img align = "center" width="100px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"> -
   <img align = "center" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> - 
